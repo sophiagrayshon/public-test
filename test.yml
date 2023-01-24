@@ -1,0 +1,5 @@
+name: my-web-api
+description: A test file
+title: my web api
+version: 2.0.0-snapshot
+labels: ["test"]
